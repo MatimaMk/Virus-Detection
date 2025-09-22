@@ -51,10 +51,6 @@ export default function Home() {
                     <span>Blockchain Security Logs</span>
                   </div>
                   <div className={styles.heroFeature}>
-                    <div className={styles.heroFeatureIcon}>🤖</div>
-                    <span>AI-Powered Analysis</span>
-                  </div>
-                  <div className={styles.heroFeature}>
                     <div className={styles.heroFeatureIcon}>🛡️</div>
                     <span>Enterprise Protection</span>
                   </div>
